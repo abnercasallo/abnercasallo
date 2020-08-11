@@ -3,7 +3,7 @@
 
 
 <p>Welcome to my page</b> I'm Abner Casallo and in my profile You'll find topics related to Public Policy. </br>
-I'm from **Lima, Perú** <img src="https://image.flaticon.com/icons/svg/323/323273.svg" width="13"/> </p>
+I'm from <img src="https://image.flaticon.com/icons/svg/323/323273.svg" width="13"/> **Lima, Perú** </p>
 
 - 🔭 I'm Bachelor of Law and currently student of Economics at San Marcos University.
 
@@ -13,6 +13,6 @@ I'm from **Lima, Perú** <img src="https://image.flaticon.com/icons/svg/323/3232
 <p><a href="https://github.com/abnercasallo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/CasalloF" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/abner-francisco-casallo-trauco-b331b983/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 </p>
 
-**Thanks for your visit** <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>.
+***Thanks for your visit** <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>.
 
 
