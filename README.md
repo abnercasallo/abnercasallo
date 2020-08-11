@@ -3,7 +3,7 @@
 
 
 <p>Welcome to my page</b> I'm Abner Casallo and in my profile You'll find topics related to Public Policy. </br>
-**I'm from Lima, Perú**<img src="https://image.flaticon.com/icons/svg/323/323273.svg" width="13"/> </p>
+I'm from **Lima, Perú** <img src="https://image.flaticon.com/icons/svg/323/323273.svg" width="13"/> </p>
 
 - 🔭 I'm Bachelor of Law and currently student of Economics at San Marcos University.
 
