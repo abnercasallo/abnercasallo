@@ -5,7 +5,7 @@
 <p>Welcome to my page.</b> My name is Abner Casallo. </br>
 I'm from Lima, Perú<img src="https://image.flaticon.com/icons/svg/323/323273.svg" width="13"/> </p>
 
-- 🔭 I'm Bachelor of Law and currently student of Economics at San Marcos University.
+- 🔭 Currently, I'm student of Economics at San Marcos University.
 
 - 🌱 In this space, I want to share some open projects related to data and public policies that contribute to a better society.
 
