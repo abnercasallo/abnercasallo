@@ -7,7 +7,7 @@ I'm from Lima, Perú<img src="https://image.flaticon.com/icons/svg/323/323273.sv
 
 - 🔭 Currently, I'm App Developer and Data Analyst
 
-- 🌱 In this space, I want to share some open projects related to data and economics that contribute to a better society.
+- 🌱 In this space, I want to share some open projects that contribute to a better society.
 
 - 📫 How to reach me:
 <p><a href="https://github.com/abnercasallo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/CasalloF" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/abner-francisco-casallo-trauco-b331b983/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
